@@ -49,13 +49,11 @@ EXPERIENCE.:Xerox Litigation Services [Albany, NY].....................June 2013
             Computer Science I (CS-1100) and answered questions about C++, basic algorithms
 
 SKILLS.....:Programming, Markup and Query Languages:
-            (x86|x64) Assembly, C++, C#, C, CSS, Go, HTML(5), FORTRAN 77-2003, Java,
+            (x86|x64) Assembly, Bash, C++, C#, C, CSS, Go, HTML(5), FORTRAN 77-2003, Java,
             JavaScript, Perl, PHP, Python, Oracle PL/SQL, SQL (Various), Visual Basic(.NET)
 
-            Operating Systems: GNU/Linux (various distributions), FreeBSD (5->7), OS X, Windows (incl. Server 2008)
-
-            A few of my current favorite things: Go, Ruby, RoR, emacs, Sublime Text,Protocol Buffers, zsh,
-            RVM, Virtualenv, PostgreSQL, UTF-8, all things CLI
+            A few of my current favorite things: Go, Ruby, RoR, emacs, Protocol Buffers, zsh,
+            PostgreSQL, UTF-8, all things CLI
 
 INTERESTS..:Fiss: Simple, fast HTTP server for serving static files from the local filesystem.
  +   FOSS...Written in Go. Provides integrated SSH tunneling so that someone behind a very
