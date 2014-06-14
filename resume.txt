@@ -1,0 +1,85 @@
+             _     _                   ____                            |
+            | |   (_) __ _ _ __ ___   | __ )  _____      _____ _ __    | Liam Bowen
+            | |   | |/ _` | '_ ` _ \  |  _ \ / _ \ \ /\ / / _ \ '_ \   | [Address redacted]
+            | |___| | (_| | | | | | | | |_) | (_) \ V  V /  __/ | | |  |
+            |_____|_|\__,_|_| |_| |_| |____/ \___/ \_/\_/ \___|_| |_|  | Albany, NY 12210
+                                                                       | github.com/hut8/resume
+            <LiamBowen@gmail.com>    github.com/hut8   http://hut8.io  + ☎  [redacted]
+            -----------------------------------------------------------------------------
+OBJECTIVE..:To develop software that improves lives.
+
+EDUCATION..:Rensselaer Polytechnic Institute [Troy, NY]................2007 -> 2011
+            B.S., Computer Science (Dropped out)
+            Extracurriculars:  [Tau Epsilon Phi Fraternity, RPISEC (Computer Security Club),
+                               RCOS (Rensselaer Center for Open Source)]
+
+            Bethlehem Central High School    [Delmar, NY]..............2003 -> 2007
+            High School Diploma (GPA: 90/100; SAT: 2100/2400)
+            Extracurriculars:  [Science Olympiad (President), National Science Bowl (President),
+                               Masterminds (academic competition team) (Vice President),
+                               Help Desk (Unpaid Intern), Civil Air Patrol]
+            Awards and Honors: [Science Department Award (2006, 2007), Masterminds JV MVP (2005),
+                               Science Bowl Regional Champions (2006), Science Olympiad
+                               (1st, 2x2nd, 3rd 2007; 2nd 2006 in regional events)]
+
+EXPERIENCE.:Xerox Litigation Services [Albany, NY].....................June 2013 -> Present
+            Software Engineer: Code PHP, Ruby, Python, Oracle PL/SQL, Go, HTML5, CSS, JavaScript
+            with Prototype/jQuery and MySQL for the OmniX document review platform. Provide
+            highest level support to clients, including on an on-call basis.
+
+            Capital IQ [New York, NY]...................(Co-op)........May 2009 -> January 2010
+                                     ...................(Internship)...May 2010 -> August  2010
+            Software Engineering Intern: Implemented new design for high-traffic search page using
+            SQL Server 2008, ASP.NET 3.5 with C#. Redesigned existing caching infrastructure to work
+            with distributed caching system ("Velocity" in Beta, later "AppFabric"). Contributed to
+            VMWare Virtual Machine management system with web interface for internal use. Wrote
+            automated, web-based .NET code-coverage utility using ASP.NET, C#, and SOS.dll (.NET
+            Debugging library).  Cut over two pages of legacy ASP code to modern ASP.NET
+            code. Offered full-time position.
+
+            Self Employed [Albany|Troy, NY]............................May 2007 -> Present
+            Technical Support & Software Engineer: Support Windows and Linux based workstations,
+            servers and networks for ≅ 10 individuals and three small businesses; client base
+            primarily expanded by references from repeat customers. Designed web-based inventory /
+            sales management system using Perl, MySQL, Python, Linux and Apache for candy and
+            grocery distributor. Automatically found deals using raw catalog data from distributors.
+
+            Rensselaer Polytechnic Institute [Troy, NY]................September -> December 2008
+            Undergraduate Teaching Assistant: Supervised two two-hour lab sessions per week for
+            Computer Science I (CS-1100) and answered questions about C++, basic algorithms
+
+SKILLS.....:Programming, Markup and Query Languages:
+            (x86|x64) Assembly, C++, C#, C, CSS, Go, HTML(5), FORTRAN 77-2003, Java,
+            JavaScript, Perl, PHP, Python, Oracle PL/SQL, SQL (Various), Visual Basic(.NET)
+
+            Operating Systems: GNU/Linux (various distributions), FreeBSD (5->7), OS X, Windows (incl. Server 2008)
+
+            A few of my current favorite things: Go, Ruby, RoR, emacs, Sublime Text,Protocol Buffers, zsh,
+            RVM, Virtualenv, PostgreSQL, UTF-8, all things CLI
+
+INTERESTS..:Fiss: Simple, fast HTTP server for serving static files from the local filesystem.
+ +   FOSS...Written in Go. Provides integrated SSH tunneling so that someone behind a very
+            restrictive firewall/NAT can easily serve files given an SSH server (e.g., with a
+            VPS account). Customizable directory listing HTML templates. github.com/hut8/fiss
+
+            Fractus: Peer-to-peer instant messenger and protocol implemented in Java with strong
+            encryption and authentication features.  Uses protocol buffers, MySQL, BouncyCastle
+            (with ECDH/AES/SHA), Swing, UPnP. Abandoned due to deep regret of starting it in Java
+            (learned valuable lesson), other projects and course load.  Rensselaer Center for Open
+            Source project. github.com/hut8/fractus
+
+            sandhog: dead-simple forward and reverse SSH tunnels on Linux, Windows, Mac OS X. Go.
+            github.com/hut8/sandhog
+
+            postr: experimental pastebin clone with cryptographic authentication features.
+            Written in Go, served via Go's net/http server and nginx. github.com/hut8/postr
+
+            tumblr-go: Go bindings for the Tumblr API. Responses are native Go structs where possible.
+            Provides handy extensions to the API, such as fetching all/N results (in parallel!) rather than
+            dealing with pagination. github.com/hut8/tumblr-go
+
+            sixdegrz: Given a post on tumblr, returns similar posts.  Implements conjecture: The
+            things that you're likely to like are the things that are liked by people who like the
+            things that you like. Go, PostgreSQL backend, HTML. github.com/hut8/sixdegrz
+
+            non-computer:  Student pilot (unlicensed, soloed), Ham radio operator (KC2UDT)

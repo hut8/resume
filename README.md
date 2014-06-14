@@ -1,4 +1,3 @@
-resume
-======
+# résumé
 
-My resume
+My résumé.
