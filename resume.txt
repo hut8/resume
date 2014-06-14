@@ -72,12 +72,11 @@ INTERESTS..:Fiss: Simple, fast HTTP server for serving static files from the loc
             postr: experimental pastebin clone with cryptographic authentication features.
             Written in Go, served via Go's net/http server and nginx. github.com/hut8/postr
 
-            tumblr-go: Go bindings for the Tumblr API. Responses are native Go structs where possible.
-            Provides handy extensions to the API, such as fetching all/N results (in parallel!) rather than
-            dealing with pagination. github.com/hut8/tumblr-go
+            tumblr-go: Go bindings for the Tumblr API. Responses are mostly native Go structs.
+            In progress. github.com/hut8/tumblr-go
 
-            sixdegrz: Given a post on tumblr, returns similar posts.  Implements conjecture: The
+            aliker: Given a post on tumblr, returns similar posts.  Implements conjecture: The
             things that you're likely to like are the things that are liked by people who like the
-            things that you like. Go, PostgreSQL backend, HTML. github.com/hut8/sixdegrz
+            things that you like. Go, jQuery, HTML5, JS, WebSockets. github.com/hut8/aliker
 
             non-computer:  Student pilot (unlicensed, soloed), Ham radio operator (KC2UDT)
