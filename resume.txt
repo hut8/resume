@@ -46,8 +46,8 @@ EXPERIENCE..Xerox Litigation Services [Albany, NY].....................June 2013
             Computer Science I (CS-1100) and answered questions about C++, basic algorithms
 
 SKILLS......Programming, Markup and Query Languages:
-            (x86|x64) Assembly, C++, C#, C, CSS, Go, HTML(5), FORTRAN 77-2003, Java,
-            JavaScript, Oracle PL/SQL, Perl, PHP, Python, Shell scripts, SQL (Various), VB{6,.NET}
+            (x86|x64) Assembly, C++, C#, C, CSS, Go, HTML(5), FORTRAN, Java, JavaScript,
+            Oracle PL/SQL, Perl, PHP, Python, Ruby, Shell scripts, SQL (Various), VB{6,.NET}
 
 FOSS........fiss: Simple, fast HTTP server for serving static files from the local filesystem.
 PROJECTS... Integrated SSH tunneling to negotiate/circumvent NAT/firewalls (to easily serve files
@@ -56,7 +56,7 @@ PROJECTS... Integrated SSH tunneling to negotiate/circumvent NAT/firewalls (to e
             encryption and authentication features.  Uses protocol buffers, MySQL, BouncyCastle
             (crypto library), Swing, UPnP. Abandoned due to deep regret of starting it in Java
             (learned valuable lesson), other projects and course load.  Rensselaer Center for Open
-            Source project. github.com/hut8/fractus
+            Source project. Java. github.com/hut8/fractus
         ....sandhog: dead-simple reverse SSH tunnels on Linux, Windows, Mac OS X. Go. Forwards
             incoming requests from an SSH server to itself to traverse tricky networks.
             github.com/hut8/sandhog
