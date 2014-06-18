@@ -65,6 +65,6 @@ PROJECTS....fiss: Simple, fast HTTP server for serving static files from the loc
             structs. github.com/hut8/tumblr-go
         ....aliker: Given a post on tumblr, returns similar posts.  Assumes the things that
             you're likely to like are the things that are liked by people who like the things
-            that you like. Go, jQuery, HTML5, JS, WebSockets. In progress. github.com/hut8/aliker
-
+            that you like. Go, jQuery, HTML5, JS, WebSockets. Originally a Rails project,
+            but switched to Go for concurrency. In progress. github.com/hut8/aliker
 INTERESTS...Ham radio (KC2UDT), Student pilot (soloed), Music (mandolin)
