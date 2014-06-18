@@ -53,15 +53,14 @@ PROJECTS....fiss: Simple, fast HTTP server for serving static files from the loc
             Integrated SSH tunneling to negotiate/circumvent NAT/firewalls (to easily serve files
             given a remote SSH server and key). Go. github.com/hut8/fiss
         ....Fractus: Peer-to-peer IM application and protocol implemented in Java with strong
-            encryption and authentication features.  Uses protocol buffers, MySQL, BouncyCastle ,
-            Swing, UPnP. Abandoned due to deep regret of starting it in Java (learned valuable
+            encryption and authentication features.  Abandoned due to deep regret of starting it in Java (learned valuable
             lesson), other projects and course load.  Rensselaer Center for Open Source
             project. Java. Protocol/crypto/networking have working tests. github.com/hut8/fractus
         ....sandhog: dead-simple reverse SSH tunnels on Linux, Windows, Mac OS X. Forwards
             incoming requests from an SSH server to itself to traverse tricky networks. Go.
             github.com/hut8/sandhog
-        ....postr: experimental pastebin clone with cryptographic authentication features.
-            Written in Go, served via Go's net/http server and nginx. github.com/hut8/postr
+	....cookie_monster: use Chrome and Firefox cookies in your scripts for testing and
+            automation. Ruby (gem). github.com/hut8/cookie_monster
         ....tumblr-go: Go bindings for large subset of the Tumblr API. Responses are native Go
             structs. github.com/hut8/tumblr-go
         ....aliker: Given a post on tumblr, returns similar posts.  Assumes the things that
