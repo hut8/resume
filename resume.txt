@@ -34,12 +34,12 @@ EXPERIENCE..Xerox Litigation Services [Albany, NY].....................June 2013
             web-based .NET code-coverage utility using ASP.NET, C# and P/Invoke.  Cut over
             legacy ASP code to modern ASP.NET code. Offered full-time position.
 
-            Wustefeld Candy Co [Albany|Troy, NY].......................May 2007 -> Present
+            Wustefeld Candy Co [Green Island, NY]......................May 2007 -> Present
             Technical Support & Software Engineer: Support Windows workstations, Linux server and
             network for small distribution business. Implemented web-based frontend to add
             functionality to their "database" (pre-SQL) using Perl, MySQL, Python, Linux and
             Apache for candy and grocery distributor. Automatically found deals using raw catalog
-            data from distributors.
+            data from distributors. Involved reverse engineering of software from 1980's.
 
             Rensselaer Polytechnic Institute [Troy, NY]................September -> December 2008
             Undergraduate Teaching Assistant: Supervised two two-hour lab sessions per week for
