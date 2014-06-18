@@ -1,6 +1,6 @@
              _     _                   ____                            |
             | |   (_) __ _ _ __ ___   | __ )  _____      _____ _ __    | Liam Bowen
-            | |   | |/ _` | '_ ` _ \  |  _ \ / _ \ \ /\ / / _ \ '_ \   | [address redacted]
+            | |   | |/ _` | '_ ` _ \  |  _ \ / _ \ \ /\ / / _ \ '_ \   |
             | |___| | (_| | | | | | | | |_) | (_) \ V  V /  __/ | | |  |
             |_____|_|\__,_|_| |_| |_| |____/ \___/ \_/\_/ \___|_| |_|  | Albany, NY 12210
                                                                        | github.com/hut8/resume
@@ -34,12 +34,12 @@ EXPERIENCE..Xerox Litigation Services [Albany, NY].....................June 2013
             web-based .NET code-coverage utility using ASP.NET, C# and P/Invoke.  Cut over
             legacy ASP code to modern ASP.NET code. Offered full-time position.
 
-            Self Employed [Albany|Troy, NY]............................May 2007 -> Present
-            Technical Support & Software Engineer: Support Windows and Linux based
-            workstations, servers and networks for three small businesses total, one
-            currently. Implemented web-based frontend to add functionality to their "database"
-            (pre-SQL) using Perl, MySQL, Python, Linux and Apache for candy and grocery
-            distributor. Automatically found deals using raw catalog data from distributors.
+            Wustefeld Candy Co [Albany|Troy, NY].......................May 2007 -> Present
+            Technical Support & Software Engineer: Support Windows workstations, Linux server and
+            network for small distribution business. Implemented web-based frontend to add
+            functionality to their "database" (pre-SQL) using Perl, MySQL, Python, Linux and
+            Apache for candy and grocery distributor. Automatically found deals using raw catalog
+            data from distributors.
 
             Rensselaer Polytechnic Institute [Troy, NY]................September -> December 2008
             Undergraduate Teaching Assistant: Supervised two two-hour lab sessions per week for
