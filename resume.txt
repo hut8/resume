@@ -2,7 +2,7 @@
             | |   (_) __ _ _ __ ___   | __ )  _____      _____ _ __    | Liam Bowen
             | |   | |/ _` | '_ ` _ \  |  _ \ / _ \ \ /\ / / _ \ '_ \   |
             | |___| | (_| | | | | | | | |_) | (_) \ V  V /  __/ | | |  |
-            |_____|_|\__,_|_| |_| |_| |____/ \___/ \_/\_/ \___|_| |_|  | Albany, NY 12210
+            |_____|_|\__,_|_| |_| |_| |____/ \___/ \_/\_/ \___|_| |_|  | Delmar, NY 12054
                                                                        | github.com/hut8/resume
             <LiamBowen@gmail.com>                    github.com/hut8   + 518.321.5076
             -----------------------------------------------------------------------------
@@ -20,7 +20,7 @@ EDUCATION...Rensselaer Polytechnic Institute [Troy, NY]................2007 -> 2
             Awards and Honors: [Science Department Award (x2), Masterminds JV MVP, Science Bowl
                                 Regional Champions, Science Olympiad (1st, 3x2nd, 3rd place)]
 
-EXPERIENCE..Xerox Litigation Services [Albany, NY].....................June 2013 -> Present
+EXPERIENCE..Xerox Litigation Services [Albany, NY].....................June 2013 -> June 2014
             Software Engineer: Develop PHP, Ruby, Python, Oracle PL/SQL, Go, HTML5, CSS,
             JavaScript with Prototype/jQuery and MySQL for the OmniX document review
             platform. Provide highest level support to clients, including on an on-call basis.
@@ -67,4 +67,4 @@ PROJECTS....fiss: Simple, fast HTTP server for serving static files from the loc
             you're likely to like are the things that are liked by people who like the things
             that you like. Go, jQuery, HTML5, JS, WebSockets. Originally a Rails project,
             but switched to Go for concurrency. In progress. github.com/hut8/aliker
-INTERESTS...Ham radio (KC2UDT), Student pilot (soloed), Music (mandolin)
+INTERESTS...Ham radio (KC2UDT), Student pilot (soloed), Music (mandolin), Open Source
