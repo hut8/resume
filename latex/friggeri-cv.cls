@@ -50,12 +50,12 @@
 \RequirePackage[quiet]{fontspec}
 \RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
 
-\newfontfamily\bodyfont[]{Helvetica Neue}
-\newfontfamily\thinfont[]{Helvetica Neue UltraLight}
-\newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
+\newfontfamily\bodyfont[]{DejaVu Sans}
+\newfontfamily\thinfont[]{DejaVu Sans ExtraLight}
+\newfontfamily\headingfont[]{DejaVu Sans Bold Oblique}
 
 \defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
+\setmainfont[Mapping=tex-text, Color=textcolor]{DejaVu Sans Condensed}
 
 %\setmathfont{XITS Math}
 
