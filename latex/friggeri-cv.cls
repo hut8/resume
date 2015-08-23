@@ -74,17 +74,16 @@
 \newcommand{\header}[3]{%
   \begin{tikzpicture}[remember picture,overlay]
     \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=3cm] (box) at (current page.north){};
-    \node [anchor=center] (name) at (box) {%
+    \node [right, xshift=0.5cm] (name) at (box.west) {%
       \fontsize{40pt}{72pt}\color{header}%
       {\thinfont #1}{\bodyfont  #2}
     };
-    \node [anchor=north] at (name.south) {%
+    \node [below right] at (name.south west) {%
       \fontsize{14pt}{24pt}\color{header}%
       \thinfont #3%
     };
   \end{tikzpicture}
   \vspace{0.5cm}
-  %% \vspace{-1\parskip}
 }
 
 
@@ -148,7 +147,7 @@
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{4.2}(1.5, 4.33)
+  \begin{textblock}{4.2}(1.5, 2.6)
   \begin{flushright}
   \obeycr
 }{%
